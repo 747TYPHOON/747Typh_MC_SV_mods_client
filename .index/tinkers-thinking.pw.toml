@@ -1,0 +1,16 @@
+filename = 'Tinkers-Thinking-0.1.6.5.2.jar'
+name = "Tinkers' Thinking"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ea93e3befa259740ef10ce30893635ea91141873d827137ff39583130b945b54df515a7caadb4d9cdae8aa06f8a3a658eb668a353a5401f423e63da1d83e9c7d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yMtiecO6/versions/k8oLa8W2/Tinkers-Thinking-0.1.6.5.2.jar'
+
+[update.modrinth]
+mod-id = 'yMtiecO6'
+version = 'k8oLa8W2'

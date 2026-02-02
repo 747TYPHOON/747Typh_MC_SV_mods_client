@@ -1,0 +1,16 @@
+filename = 'sweet_calamity-1.0.1.jar'
+name = 'Sweet Calamity'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '616811fd2042248fe5355faa34d3e703dafa777d5534808904e75ef6e3db4c86e2d31d65de7c139e75fa46068505b4b4cfa89c37e4aa039e767620ccb4e23744'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1774eNIB/versions/xghWX7Hd/sweet_calamity-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '1774eNIB'
+version = 'xghWX7Hd'
