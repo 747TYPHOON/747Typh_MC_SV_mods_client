@@ -1,0 +1,16 @@
+filename = 'alexscavesexemplified-2.1.1-all.jar'
+name = 'Alexs Caves Exemplified'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'db60da92c2220a735d428c7ff5759a342b6291e0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6931840
+project-id = 1214874
